@@ -1,2 +1,2 @@
-# banglore price-perdict project 
-this is ml project
+# banglore price-predict project 
+this is an ml project
